@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nguyen Pham Nguyen The",
+    "section": "",
+    "text": "Hi, I’m Nguyen.\nI’m a preventive medicine doctor and currently work as a research assistant at Mathematical Modelling Group, Oxford University Clinical Research Unit.\nMy current interests revolve around infectious disease modelling and applied biostatistics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "journey.html",
+    "href": "journey.html",
+    "title": "Academic Journey",
+    "section": "",
+    "text": "MIDSEA Summer School 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nInfectious Diseases Modelling Conference 2024"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "MIDSEA Summer School 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfectious Diseases Modelling 2024 Conference"
+  },
+  {
+    "objectID": "gallery/summer-school-2024/index.html",
+    "href": "gallery/summer-school-2024/index.html",
+    "title": "MIDSEA Summer School 2024",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html#my-academic-journey",
+    "href": "index.html#my-academic-journey",
+    "title": "Nguyen Pham Nguyen The",
+    "section": "My academic journey",
+    "text": "My academic journey\n\n#| listing: id: listing-gallery template: ../gallery.ejs contents: - photos/*.jpg sort-ui: false filter-ui: false categories: false"
+  },
+  {
+    "objectID": "CV/index.html",
+    "href": "CV/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "CV/cv.html",
+    "href": "CV/cv.html",
+    "title": "Nguyen Pham Nguyen The",
+    "section": "",
+    "text": "Developed the R package serosv: Analyse serological data and estimate infectious diseases parameters.\nConducted epidemiological analysis of the 2023 hand, foot, and mouth disease outbreak in Ho Chi Minh City.\nAnalyzed serological data for measles and hand, foot, and mouth disease in Ho Chi Minh City.\n\n\nConducted systematic reviews of serosurveillance systems and risk of outbreak calculation methods.\n\n\n\nPerformed statistical analysis for randomized clinical trial studies.\n\n\n\nConducted a systematic review and meta-analysis on vaccine acceptance and attitudes among people experiencing homelessness.\n\n\n\nParticipated in contact tracing via telephone during COVID-19 pandemic in Ho Chi Minh City.\nPerformed data entry, and data cleaning of COVID-19 test results data.\n\n\nSkills: Proficient in R programming for data analysis, conducting systematic reviews.\nLanguages and Tools: R, Github, Quarto.\n\n\nPhan TQA, Pham NTN, Bui TL, Huynh NT, Choisy M, Ong T. serosv: Analyse serological data and estimate infectious diseases parameters.https://oucru-modelling.github.io/serosv/.\n\n\nNguyen, D.A., Alagbo, H.O., Hassan, T.A., Mera-Lojano, L.D., Abdelaziz, E.O., Pham NTN, Makram, A.M., Makram, O.M., Elsheikh, R., Huy, N.T. Vaccine acceptance, determinants, and attitudes toward vaccine among people experiencing homelessness: a systematic review and meta-analysis. BMC Infect Dis 23, 880 (2023). https://doi.org/10.1186/s12879-023-08878-6\n\n\nLe TMC, Tran THD, Pham VP, Dang TL, Duong KT, Hua TT, Huynh TNT, Nguyen THN, Le QT, Nguyen BMN, Vo MT, Ong PT, Pham NTN, Amorim CA. The first comparative study on the effectiveness of slow freezing and vitrification of human ovarian tissue by xenotransplantation model in Vietnam. In Submission.\n\n\nPham NTN. Modelling a two-peak enterovirus A71 outbreak caused in Ho Chi Minh City, Vietnam, in 2023. Paper presented at: Early Career Researchers’ Sandbox, Infectious Diseases Modelling Conference 2024; 2024 Nov 6-8; Bangkok, Thailand.\n\n\n\n“Steps for conducting a systematic review”. OUCRU monthly training classes. Venue: Ho Chi Minh City Center for Disease Control. https://github.com/pntnguyen/SR_HCDC\n\n\n\nModelling Infectious Diseases in South East Asia (MIDSEA) Summer School 2024. Institution: National University of Singapore; Mahidol Oxford Research Unit; Oxford University Clinical Research Unit; University of the Philippines; De La Salle Manila; Mahasarakham University."
+  }
+]

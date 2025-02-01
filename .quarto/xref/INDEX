@@ -1,0 +1,27 @@
+{
+  "index.qmd": {
+    "index.html": "d39c5e1e"
+  },
+  "about.qmd": {
+    "about.html": "67fd563c"
+  },
+  "journey.qmd": {
+    "journey.html": "d55eb585"
+  },
+  "about/CV.qmd": {
+    "CV.tex": "ef59e3c4"
+  },
+  "gallery.qmd": {
+    "gallery.html": "e1a20f69"
+  },
+  "gallery/summer-school-2024/index.qmd": {
+    "index.html": "be938bfb"
+  },
+  "CV/index.qmd": {
+    "index.html": "97d18858"
+  },
+  "CV/cv.qmd": {
+    "cv.tex": "199bea45",
+    "cv.html": "dbf42ff9"
+  }
+}

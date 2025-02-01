@@ -1,0 +1,17 @@
+{
+  "listingMap": {
+    "journey.qmd": [
+      "gallery/*.jpg"
+    ],
+    "gallery.qmd": [
+      "gallery"
+    ],
+    "gallery\\summer-school- 2024\\index.qmd": [
+      "gallery/*.jpg"
+    ],
+    "gallery\\summer-school-2024\\index.qmd": [
+      "gallery/*.jpg",
+      "photos/*.jpg"
+    ]
+  }
+}

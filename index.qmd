@@ -1,0 +1,24 @@
+---
+title: "Nguyen Pham Nguyen The"
+image: PNTN.png
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/pntnguyen
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/nguyen-pnt/
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=J5DIqi8AAAAJ&hl=en
+     
+---
+
+Hi, I'm Nguyen.  
+
+I’m a preventive medicine doctor and currently work as a research assistant at Mathematical Modelling Group, Oxford University Clinical Research Unit.  
+
+My current interests revolve around infectious disease modelling and applied biostatistics.
+

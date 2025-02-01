@@ -1,0 +1,25 @@
+---
+title: "Gallery"
+---
+
+# MIDSEA Summer School 2024
+
+::: {layout="[[1], [1,1]]"}
+![](./gallery/summer-school-2024/photos/MIDSEA1.jpg)
+
+![](./gallery/summer-school-2024/photos/MIDSEA2.jpg)
+
+![](./gallery/summer-school-2024/photos/MIDSEA3.jpg)
+:::
+
+# Infectious Diseases Modelling 2024 Conference
+
+::: {layout-nrow="2"}
+![](./gallery/IDM24/IDM4.jpg)
+
+![](./gallery/IDM24/IDM1.jpg)
+
+![](./gallery/IDM24/IDM2.jpg)
+
+![](./gallery/IDM24/IDM3.jpg)
+:::

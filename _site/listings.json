@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/journey.html",
+    "items": []
+  },
+  {
+    "listing": "/gallery.html",
+    "items": [
+      "/gallery/summer-school-2024/index.html"
+    ]
+  },
+  {
+    "listing": "/gallery/summer-school-2024/index.html",
+    "items": []
+  }
+]

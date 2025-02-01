@@ -1,0 +1,263 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+output:
+  pdf_document:
+    latex_engine: lualatex
+---
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{huge}\begin{center}{\bf Nguyen Pham Nguyen The}\end{center}\end{huge}
+```
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}thenguyenphamnguyen@gmail.com ∙ \href{https://www.linkedin.com/in/nguyen-pnt/}{LinkedIn}∙ \href{https://github.com/pntnguyen}{Github}
+\end{center}
+
+\vspace{15pt}
+```
+<!-- EDUCATION: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+{\bf EDUCATION}
+\vspace{3pt}
+\hrule
+\begin{multicols}{2}
+\begin{flushleft}{\bf \makebox[0pt][l]{University of Medicine and Pharmacy at Ho Chi Minh City}}\end{flushleft}
+\begin{flushright}Ho Chi Minh City, Vietnam\end{flushright}
+\end{multicols}
+\vspace{-0.17cm}
+\begin{multicols}{2}
+\begin{flushleft}Doctor of Preventive Medicine\end{flushleft}
+\begin{flushright}2018 - 2024\end{flushright}
+\end{multicols}
+\end{large}
+```
+
+\vspace{0.05cm}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+```{=tex}
+\begin{large}{\bf EXPERIENCE}
+\vspace{3pt}
+\hrule
+\begin{multicols}{2}
+\begin{flushleft}{\bf \makebox[0pt][l]{Mathematical Modelling Group, Oxford University Clinical Research Unit}}\end{flushleft}
+\begin{flushright}Sep 2023-Present\end{flushright}
+\end{multicols}
+\vspace{-0.17cm}
+\begin{multicols}{2}
+\begin{flushleft}\textit{Research Assistant}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.16cm}
+
+-   Developed the R package *serosv: Analyse serological data and estimate infectious diseases parameters.*
+-   Conducted epidemiological analysis of the 2023 hand, foot, and mouth disease outbreak in Ho Chi Minh City.
+-   Analyzed serological data for measles and hand, foot, and mouth disease in Ho Chi Minh City.
+
+\vspace{-0.17cm}
+
+```{=tex}
+\begin{large}
+\begin{multicols}{2}
+\begin{flushleft}\textit{Intern}\end{flushleft}
+\begin{flushright}Jun 2023-Aug 2023\end{flushright}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.16cm}
+
+-   Conducted systematic reviews of serosurveillance systems and risk of outbreak calculation methods.
+
+\vspace{3pt}
+
+<!-- EXPERIENCE : 2ND BULLET-->
+
+```{=tex}
+\begin{large}
+\begin{multicols}{2}
+\begin{flushleft}{\bf \makebox[0pt][l]{Inferity Department, Tu Du Obstetrics and Gynecology Hospital}}\end{flushleft}
+\begin{flushright}Jun 2023-Present\end{flushright}
+\end{multicols}
+\vspace{-0.17cm}
+\begin{multicols}{2}
+\begin{flushleft}\textit{Biostatistical Analyst}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.16cm}
+
+-   Performed statistical analysis for randomized clinical trial studies.
+
+\vspace{3pt}
+
+<!-- EXPERIENCE : 3RD BULLET-->
+
+```{=tex}
+\begin{large}
+\begin{multicols}{2}
+\begin{flushleft}{\bf Online Research Club}\end{flushleft}
+\begin{flushright}Oct 2022-Oct 2024\end{flushright}
+\end{multicols}
+\vspace{-0.17cm}
+\begin{multicols}{2}
+\begin{flushleft}\textit{Researcher}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.16cm}
+
+-   Conducted a systematic review and meta-analysis on vaccine acceptance and attitudes among people experiencing homelessness.
+
+\vspace{3pt}
+
+<!-- EXPERIENCE : 4RD BULLET-->
+
+```{=tex}
+\begin{large}
+\begin{multicols}{2}
+\begin{flushleft}{\bf Ho Chi Minh City Center for Disease Control}\end{flushleft}
+\begin{flushright}Jun 2021-Oct 2021\end{flushright}
+\end{multicols}
+\vspace{-0.17cm}
+\begin{multicols}{2}
+\begin{flushleft}\textit{Pandemic response volunteer}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+-   Participated in contact tracing via telephone during COVID-19 pandemic in Ho Chi Minh City.
+-   Performed data entry, and data cleaning of COVID-19 test results data.
+
+\vspace{0.05cm}
+
+<!-- SKILLS -->
+
+```{=tex}
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+```
+**Skills**: Proficient in R programming for data analysis, conducting systematic reviews.
+
+\vspace{-0.16cm}
+
+**Languages and Tools**: R, Github, Quarto.
+
+\vspace{0.05cm}
+
+<!-- RESEARCH OUTPUTS-->
+
+```{=tex}
+\begin{large}{\bf RESEARCH OUTPUTS}
+\vspace{3pt}
+\hrule
+\begin{multicols}{2}
+\begin{flushleft}{\bf Software}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.17cm}
+
+-   Phan TQA, **Pham NTN**, Bui TL, Huynh NT, Choisy M, Ong T. serosv: Analyse serological data and estimate infectious diseases parameters.[https://oucru-modelling.github.io/serosv/](https://oucru-modelling.github.io/serosv/){target="_blank"}.
+
+\vspace{-0.16cm}
+
+```{=tex}
+\begin{large}
+\vspace{3pt}
+\begin{multicols}{2}
+\begin{flushleft}{\bf Publications}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.17cm}
+
+-   Nguyen, D.A., Alagbo, H.O., Hassan, T.A., Mera-Lojano, L.D., Abdelaziz, E.O., **Pham NTN**, Makram, A.M., Makram, O.M., Elsheikh, R., Huy, N.T. Vaccine acceptance, determinants, and attitudes toward vaccine among people experiencing homelessness: a systematic review and meta-analysis. BMC Infect Dis 23, 880 (2023). [https://doi.org/10.1186/s12879-023-08878-6](https://doi.org/10.1186/s12879-023-08878-6){target="_blank"}
+
+\vspace{-0.16cm}
+
+-   Le TMC, Tran THD, Pham VP, Dang TL, Duong KT, Hua TT, Huynh TNT, Nguyen THN, Le QT, Nguyen BMN, Vo MT, Ong PT, **Pham NTN**, Amorim CA. The first comparative study on the effectiveness of slow freezing and vitrification of human ovarian tissue by xenotransplantation model in Vietnam. *In Submission*.
+
+\vspace{-0.16cm}
+
+```{=tex}
+\begin{large}
+\vspace{3pt}
+\begin{multicols}{2}
+\begin{flushleft}{\bf Oral presentation}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+-   **Pham NTN**. Modelling a two-peak enterovirus A71 outbreak caused in Ho Chi Minh City, Vietnam, in 2023. Paper presented at: Early Career Researchers’ Sandbox, Infectious Diseases Modelling Conference 2024; 2024 Nov 6-8; Bangkok, Thailand.
+
+\vspace{0.05cm}
+
+<!-- TEACHING-->
+
+```{=tex}
+\begin{large}{\bf TEACHING}
+\vspace{3pt}
+\hrule
+\begin{multicols}{2}
+\begin{flushleft}{\bf Seminar}\end{flushleft}
+\end{multicols}
+\end{large}
+```
+\vspace{-0.17cm}
+
+-   "Steps for conducting a systematic review". OUCRU monthly training classes. Venue: Ho Chi Minh City Center for Disease Control. [https://github.com/pntnguyen/SR_HCDC](https://github.com/pntnguyen/SR_HCDC){target="_blank"}
+
+\vspace{0.05cm}
+
+<!-- ACHIEVEMENT -->
+
+```{=tex}
+
+\begin{large}{\bf ACHIEVEMENTS}
+
+\vspace{3pt}
+
+\hrule
+
+\begin{multicols}{2}
+
+\begin{flushleft}{\bf Scholarship}\end{flushleft}
+
+\end{multicols}
+
+\end{large}
+
+```
+
+\vspace{-0.17cm}
+
+-  Modelling Infectious Diseases in South East Asia (MIDSEA) Summer School 2024. Institution: National University of Singapore; Mahidol Oxford Research Unit; Oxford University Clinical Research Unit; University of the Philippines; De La Salle Manila; Mahasarakham University.
+
+\vspace{-0.16cm}

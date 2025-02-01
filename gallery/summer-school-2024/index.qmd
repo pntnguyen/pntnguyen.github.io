@@ -1,0 +1,15 @@
+---
+title: "MIDSEA Summer School 2024"
+page-layout: full
+listing:
+  id: listing-gallery
+  template: ../gallery.ejs
+  contents:
+    - photos/*.jpg
+  sort-ui: false
+  filter-ui: false
+  categories: false
+---
+
+::: {#listing-gallery}
+:::
