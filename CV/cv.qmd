@@ -56,15 +56,15 @@ output:
 \end{multicols}
 \end{large}
 ```
-
 \vspace{-0.16cm}
 
 **Attended Coursework**: 
+
 \vspace{-0.16cm}
 
--  *In-person*: Basic  Medical Statistics, Analysis of Time-to-Event Data, Inference Methods, Agent-based Modelling with GAMA. 
--  *Online*: Google Data Analytics, Biostatistic in Public Health, Writing in the science, Infectious Diseases Modeling.
- 
+-   *In-person*: Basic Medical Statistics, Analysis of Time-to-Event Data, Inference Methods, Agent-based Modelling with GAMA.
+-   *Online*: Google Data Analytics, Biostatistic in Public Health, Writing in the science, Infectious Diseases Modeling.
+
 \vspace{3pt}
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -261,11 +261,9 @@ output:
 \end{multicols}
 
 \end{large}
-
 ```
-
 \vspace{-0.17cm}
 
--  Modelling Infectious Diseases in South East Asia (MIDSEA) Summer School 2024. Institution: National University of Singapore; Mahidol Oxford Research Unit; Oxford University Clinical Research Unit; University of the Philippines; De La Salle Manila; Mahasarakham University.
+-   Modelling Infectious Diseases in South East Asia (MIDSEA) Summer School 2024. Institution: National University of Singapore; Mahidol Oxford Research Unit; Oxford University Clinical Research Unit; University of the Philippines; De La Salle Manila; Mahasarakham University.
 
 \vspace{-0.16cm}
