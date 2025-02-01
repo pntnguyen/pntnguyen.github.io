@@ -57,7 +57,15 @@ output:
 \end{large}
 ```
 
-\vspace{0.05cm}
+\vspace{-0.16cm}
+
+**Attended Coursework**: 
+\vspace{-0.16cm}
+
+-  *In-person*: Basic  Medical Statistics, Analysis of Time-to-Event Data, Inference Methods, Agent-based Modelling with GAMA. 
+-  *Online*: Google Data Analytics, Biostatistic in Public Health, Writing in the science, Infectious Diseases Modeling.
+ 
+\vspace{3pt}
 
 <!-- EXPERIENCE : 1ST BULLET-->
 
@@ -234,7 +242,7 @@ output:
 
 -   "Steps for conducting a systematic review". OUCRU monthly training classes. Venue: Ho Chi Minh City Center for Disease Control. [https://github.com/pntnguyen/SR_HCDC](https://github.com/pntnguyen/SR_HCDC){target="_blank"}
 
-\vspace{0.05cm}
+\vspace{5cm}
 
 <!-- ACHIEVEMENT -->
 
