@@ -16,8 +16,6 @@ website:
       - href: https://pntnguyen.github.io/note_book/
         text: Note book
       
-        
-
 format:
   html:
     theme: cosmo
