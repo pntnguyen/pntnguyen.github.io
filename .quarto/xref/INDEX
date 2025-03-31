@@ -23,5 +23,14 @@
   "CV/cv.qmd": {
     "cv.tex": "199bea45",
     "cv.html": "dbf42ff9"
+  },
+  "note_book/index.qmd": {
+    "index.html": "560f2d82"
+  },
+  "note_book/modelling/index.qmd": {
+    "index.html": "02cad247"
+  },
+  "note_book/machine_learning/index.qmd": {
+    "index.html": "8fd8d508"
   }
 }

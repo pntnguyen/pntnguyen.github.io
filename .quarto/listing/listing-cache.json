@@ -12,6 +12,11 @@
     "gallery\\summer-school-2024\\index.qmd": [
       "gallery/*.jpg",
       "photos/*.jpg"
+    ],
+    "note_book\\index.qmd": [
+      "modelling",
+      "others",
+      "machine_learning"
     ]
   }
 }

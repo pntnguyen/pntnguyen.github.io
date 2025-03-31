@@ -2,5 +2,12 @@
   {
     "listing": "/gallery/summer-school-2024/index.html",
     "items": []
+  },
+  {
+    "listing": "/note_book/index.html",
+    "items": [
+      "/note_book/modelling/index.html",
+      "/note_book/machine_learning/index.html"
+    ]
   }
 ]
