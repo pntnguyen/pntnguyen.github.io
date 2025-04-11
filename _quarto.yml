@@ -14,7 +14,7 @@ website:
       - href: gallery.qmd
         text: Gallery
       - href: note_book/index.qmd
-        text: Note book
+        text: Notebook
       
 format:
   html:
