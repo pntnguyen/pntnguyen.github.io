@@ -13,8 +13,8 @@ website:
         text: CV
       - href: gallery.qmd
         text: Gallery
-      # - href: note_book/index.qmd
-      #   text: Note book
+      - href: note_book/index.qmd
+        text: Note book
       
 format:
   html:

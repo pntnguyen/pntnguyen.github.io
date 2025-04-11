@@ -58,7 +58,7 @@ output:
 ```
 \vspace{-0.16cm}
 
-**Attended Coursework**: 
+**Attended Coursework**:
 
 \vspace{-0.16cm}
 
