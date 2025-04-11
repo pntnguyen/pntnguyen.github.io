@@ -17,6 +17,10 @@
       "modelling",
       "others",
       "machine_learning"
+    ],
+    "notebook\\index.qmd": [
+      "modelling",
+      "machine_learning"
     ]
   }
 }

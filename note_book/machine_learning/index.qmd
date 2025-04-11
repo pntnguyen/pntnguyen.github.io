@@ -1,9 +1,0 @@
----
-title: "Spring School on Statistics and Machine Learning"
-image: poster.png
-draft: false
-execute:
-  eval: false
----
-
-[{{< fa link >}}Link](https://pntnguyen.github.io/saml/){.btn .btn-outline-secondary role="button"}

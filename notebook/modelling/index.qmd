@@ -1,0 +1,9 @@
+---
+title: "Mathematical Modelling"
+image: preview.png
+draft: false
+execute:
+  eval: false
+---
+
+[{{< fa link >}}Link](https://pntnguyen.github.io/note_book/){.btn .btn-outline-secondary role="button"}

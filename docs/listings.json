@@ -9,5 +9,12 @@
       "/note_book/modelling/index.html",
       "/note_book/machine_learning/index.html"
     ]
+  },
+  {
+    "listing": "/notebook/index.html",
+    "items": [
+      "/notebook/modelling/index.html",
+      "/notebook/machine_learning/index.html"
+    ]
   }
 ]

@@ -32,5 +32,14 @@
   },
   "note_book/machine_learning/index.qmd": {
     "index.html": "8fd8d508"
+  },
+  "notebook/index.qmd": {
+    "index.html": "6ebab238"
+  },
+  "notebook/machine_learning/index.qmd": {
+    "index.html": "a6e9ac57"
+  },
+  "notebook/modelling/index.qmd": {
+    "index.html": "477c0e36"
   }
 }

@@ -23,3 +23,7 @@ title: "Gallery"
 
 ![](./gallery/IDM24/IDM3.jpg)
 :::
+
+#  Spring School on Statistic and Machine Learning 2025
+
+![](./gallery/saml_2025/saml.jpg)
